@@ -89,13 +89,13 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>“五类基本市场及其产品、服务和货币的联结流”</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>“五类基本市场及其产品、服务和货币的联结流”</p></figcaption></figure>
 
 “营销人员将行业（industry）视为卖方集合，并将顾客群体称为市场（market）。市场包括需要市场（如瘦身市场）、产品市场（如鞋类市场）、人口市场（如“千禧一代”市场）和地理市场（如中国市场），以及选民市场、劳动力市场和捐赠者市场。”
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>卖方和买方是如何通过四种流连接起来的</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>卖方和买方是如何通过四种流连接起来的</p></figcaption></figure>
 
 卖方将商品、服务，以及广告和直邮等传播物发送到市场；作为回报，他们获得货币和信息，例如顾客态度和销售数据。内圈循环显示了用以买卖商品和服务的货币交换；外圈循环显示了信息交换。
 
